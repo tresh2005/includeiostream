@@ -1,2 +1,2 @@
-# includeiostream
-int main
+# include <iostream>
+int main() {
